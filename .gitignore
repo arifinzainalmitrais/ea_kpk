@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/wnr_solution/.vs/wnr_solution
+/wnr_solution/ComponentDiagramGenerator/bin
+/wnr_solution/ComponentDiagramGenerator/Scripts/.vs
+/wnr_solution/ComponentDiagramGenerator/obj
